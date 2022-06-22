@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "eesim"]
+	path = eesim
+	url = https://github.com/sakoehler7/eesim
+	shallow = true
+	registered = true
